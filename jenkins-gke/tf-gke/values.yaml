@@ -50,7 +50,7 @@ controller:
     - git:4.4.5
     - blueocean:1.23.2
     - docker-custom-build-environment:1.7.3
-    - credentials:2.3.11
+    - credentials:2.3.14
     - docker-commons:1.17
     - docker-workflow:1.23
     - job-dsl:1.77
