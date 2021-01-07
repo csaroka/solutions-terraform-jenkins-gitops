@@ -46,13 +46,13 @@ controller:
     - kubernetes:1.27.6
     - workflow-job:2.40
     - workflow-aggregator:2.6
-    - credentials-binding:1.23
-    - git:4.4.5
-    - blueocean:1.23.2
+    - credentials-binding:1.24
+    - git:4.5.1
+    - blueocean:1.24.3
     - docker-custom-build-environment:1.7.3
     - credentials:2.3.14
     - docker-commons:1.17
-    - docker-workflow:1.23
+    - docker-workflow:1.25
     - job-dsl:1.77
     - configuration-as-code:1.46
     - jdk-tool:1.4
